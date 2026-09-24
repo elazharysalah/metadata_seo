@@ -1,0 +1,11 @@
+# Video Metadata Cleaner Dependencies
+# Python 3.8+ required
+
+# No external Python packages required!
+# This application uses only Python standard library.
+
+# However, you need FFmpeg installed on your system:
+# - Windows: winget install FFmpeg
+#   or download from https://ffmpeg.org/download.html
+# - macOS: brew install ffmpeg
+# - Linux: sudo apt install ffmpeg
